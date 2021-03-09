@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 45d8e7ceae4e57a48b15569fc396078e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _perfectTap: {fileID: 1161113539219518142, guid: 81336d8a1ca144d45a2e0aab9bfce52a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

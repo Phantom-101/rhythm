@@ -1,0 +1,4 @@
+<svg width="512" height="64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="32,2 4,32 32,62 480,62 508,32 480,2" fill="rgb(247, 131, 131)" stroke="rgb(201, 26, 26)" stroke-width="4" stroke-linejoin="miter"></polygon>
+  <polygon points="128,24 120,32 128,40 384,40 392,32 384,24" fill="rgb(255, 199, 199)" stroke="rgb(230, 62, 62)" stroke-width="4" stroke-linejoin="miter"></polygon>
+</svg>
